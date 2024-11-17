@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="README_MD_IMG/measurement-rail-for-smd-parts-mcad-render.JPG" alt="project photo">
+    <img src="README_MD_IMG/measurement-rail-for-smd-parts-mcad-render.bmp" alt="project photo">
 </div>
 
 Measurement rail for SMD parts.
